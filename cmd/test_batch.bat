@@ -1,6 +1,7 @@
 echo off
 
 REM ### This is development branch
+REM ### Comment 2
 REM ### This is a new comment done on new-feature
 
 REM ##########################################################################
